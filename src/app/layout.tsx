@@ -36,4 +36,5 @@ yearbooks
 microfilm
 horoscope
 event schedule
+fairview newspaper
 */
