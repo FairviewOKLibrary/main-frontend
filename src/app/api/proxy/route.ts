@@ -1,5 +1,5 @@
 // // app/api/proxy/route.ts
-// import { NextRequest, NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 
 // const TARGET_BASE = process.env.PROXY_TARGET_BASE ?? "https://example.com"; // e.g. https://api.example.com
 // const FORWARD_IP = process.env.PROXY_FORWARD_IP === "1";
@@ -45,7 +45,7 @@
 //   return out;
 // }
 
-// export async function handler(req: NextRequest) {
+export async function handler(req: NextRequest) {
 //   const url = buildTargetUrl(req);
 //   const headers = buildForwardHeaders(req);
 
@@ -81,15 +81,15 @@
 //     status: upstream.status,
 //     headers: responseHeaders,
 //   });
-// }
+}
 
 // // Next.js app router expects default export named GET/POST/etc or exported handler for all methods.
 // // Export all methods to use the same handler:
-// export const GET = handler;
-// export const POST = handler;
-// export const PUT = handler;
-// export const PATCH = handler;
-// export const DELETE = handler;
-// export const OPTIONS = handler;
-// export const HEAD = handler;
+export const GET = handler;
+export const POST = handler;
+export const PUT = handler;
+export const PATCH = handler;
+export const DELETE = handler;
+export const OPTIONS = handler;
+export const HEAD = handler;
                               
