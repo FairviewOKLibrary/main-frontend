@@ -18,7 +18,7 @@ const Home = () => {
     <div className="">
       <div className='__home_main' >
         {/* <div className='__home_background_image' style={{ backgroundImage: `url(${home_pic.src})` }}> */}
-
+dasdsa
         {/* </div> */}
 
       </div>

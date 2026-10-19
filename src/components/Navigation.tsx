@@ -38,6 +38,32 @@ const Navigation = () => {
                         <ThemeChange />
                     </div>
                 </Container>
+                <ul>
+                    <li>
+                        Main Links
+                        <ul>
+                            <li>Home</li>
+                            <li>Library Board</li>
+                            <li>About</li>
+                            <li>Contact</li>
+                            <li>Join FOL</li>
+                        </ul>
+                    </li>
+                    <li>
+                        Resources
+                        <ul>
+                            <li>Book Club</li>
+                            <li>Public Sites Links</li>
+                            <li>Library FAQ</li>
+                            <li>Major County Obituaries</li>
+                            <li>eBooks From Overdrive</li>
+                            <li>Our Card Catalogue</li>
+                        </ul>
+                    </li>
+                    <li>
+                        Blog
+                    </li>
+                </ul>
             </nav>
         </>
 
