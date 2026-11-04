@@ -38,32 +38,37 @@ const Navigation = () => {
                         <ThemeChange />
                     </div>
                 </Container>
-                <ul>
+                <ul className={style.__main_nav_links}>
                     <li>
-                        Main Links
-                        <ul>
-                            <li>Home</li>
-                            <li>Library Board</li>
-                            <li>About</li>
-                            <li>Contact</li>
-                            <li>Join FOL</li>
-                        </ul>
+                        <details className={style.dropdown}>
+                            <summary>Main Links</summary>
+                            <ul className={style.dropdown_menu}>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/library-board">Library Board</a></li>
+                                <li><a href="/about">About</a></li>
+                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="/join-fol">Join FOL</a></li>
+                            </ul>
+                        </details>
                     </li>
+
                     <li>
-                        Resources
-                        <ul>
-                            <li>Book Club</li>
-                            <li>Public Sites Links</li>
-                            <li>Library FAQ</li>
-                            <li>Major County Obituaries</li>
-                            <li>eBooks From Overdrive</li>
-                            <li>Our Card Catalogue</li>
-                        </ul>
+                        <details className={style.dropdown}>
+                            <summary>Resources</summary>
+                            <ul className={style.dropdown_menu}>
+                                <li><a href="/book-club">Book Club</a></li>
+                                <li><a href="/public-sites">Public Sites Links</a></li>
+                                <li><a href="/faq">Library FAQ</a></li>
+                                <li><a href="/obituaries">Major County Obituaries</a></li>
+                                <li><a href="/ebooks">eBooks From OverDrive</a></li>
+                                <li><a href="https://catalog.fairviewoklibrary.org/">Our Card Catalogue</a></li>
+                            </ul>
+                        </details>
                     </li>
-                    <li>
-                        Blog
-                    </li>
+
+                    <li><a href="/blog">Blog</a></li>
                 </ul>
+
             </nav>
         </>
 
