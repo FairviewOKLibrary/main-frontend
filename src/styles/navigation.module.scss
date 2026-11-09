@@ -120,15 +120,17 @@
         }
     }
 
-    @media (max-width: 640px) {
-        .navigation_body {
-            .__main_nav_links {
-                flex-wrap: wrap;
 
-                .dropdown_menu {
-                    position: static;
-                    box-shadow: none;
-                }
+}
+
+@media (max-width: 640px) {
+    .navigation_body {
+        .__main_nav_links {
+            flex-wrap: wrap;
+
+            .dropdown_menu {
+                position: static;
+                box-shadow: none;
             }
         }
     }
