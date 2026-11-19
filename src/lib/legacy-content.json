@@ -1,0 +1,935 @@
+{
+  "about": [
+    {
+      "type": "h1",
+      "text": "About",
+      "href": null
+    },
+    {
+      "type": "h1",
+      "text": "A Brief History...",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Before there was a library in Fairview, there was a reading room. Many citizens of Fairview went to the reading room to read the current magazines and books of the era.\nThe Fairview Municipal Library was founded on April 9th, 1909, and the first library director was Miss Lucas.\nChildren’s services started in earnest in March 1917, with the addition of the “Children’s Hour.”\nThe library moved to the municipal auditorium in 1939.\nThe longest serving librarian was Miss Ula Frost from July 16th, 1912 to her retirement 43 years later in 1955.\nUnder the direction of Dee Wilson, the Fairview Library started offering “Summer Reading Programs” in the summer of 1982.\nMotto: The Fairview City Library strives to fulfill the informational needs of all adults and children with the most desirable reading, current educational material, and activities with a friendly, personalized service to all patrons.",
+      "href": null
+    }
+  ],
+  "library-board": [
+    {
+      "type": "h1",
+      "text": "Library Board",
+      "href": null
+    },
+    {
+      "type": "h1",
+      "text": "Our Library Board",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "The Fairview City Library Board of Trustees is an advisory board appointed by the City Council.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "The board meets in open session on the third Thursday of every month at 4:00pm in the city building complex. The public is invited and encouraged to attend and participate in these meetings.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Library Board members as of July, 2025: Elizabeth Fuchs, Charley Bromlow, Tammy Kliewer, Margaret O’Malley, and  Natalie Gonzalez",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Board meeting dates for 2026:",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "January 15th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "February 19th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "March 19th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "April 16th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "May 21st",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "June 18th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "July 16th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "August 20th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "September 17th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "October 15th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "November 19th",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "December 17th",
+      "href": null
+    }
+  ],
+  "faq": [
+    {
+      "type": "h1",
+      "text": "FAQ",
+      "href": null
+    },
+    {
+      "type": "h1",
+      "text": "Library FAQ",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "General Information",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "What are the library hours? The library is open Monday to Friday from 8:30 AM to 6 PM and closed on Saturdays and Sundays.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Where is the library located? The library is located at 123 S. 6th Fairview, OK .",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Membership",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "How do I get a library card? You can apply for a library card online in person.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Is there a fee for a library card? No, obtaining a library card is free for residents of the area.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Borrowing Materials",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "How long can I borrow books? Most books can be borrowed for two weeks . Some materials may have different loan periods.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Can I renew my items? Yes, items can be renewed by phone, or in person unless they are on hold for another patron.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Digital Resources",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Does the library offer e-books? Yes, the library provides access to a variety of e-books and audiobooks through Libby .",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "How can I access online databases? You can access online databases through the library’s website with your library card number.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Programs and Events",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Does the library host events? Yes, the library hosts various events, including book clubs, author readings, and children's storytime.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Are there programs for children and teens? Yes, we offer a range of programs tailored for children and teens, including summer reading challenges and educational workshops.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Technology and Services",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Is there free Wi-Fi available? Yes, free Wi-Fi is available throughout the library.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Can I print or copy documents? Yes, the library has printing and copying services available for a small fee.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Contact Information",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "How can I contact the library? You can reach us by phone at (580) 227-2190 or email us at librarian@fairviewok.org .",
+      "href": null
+    }
+  ],
+  "join-fol": [
+    {
+      "type": "h1",
+      "text": "Friends of the Library",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "FRIENDS OF THE LIBRARY (FOL): The Friends Of The Fairview City Library is a volunteer group of women and men who are interested in the development and progress of the library services in Fairview. They conduct fundraisers, assist the library staff and provide improvements to the library for the use and benefit of the Citizens. The Friends meet the third Tuesday at 6:00 pm on January 14th, 2025; April 15th, 2025; July 15th, 2025; October 21st, 2025. If you are interested in becoming a Friend Of The Library, please join us at the next meeting or talk with any of the library staff",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Again if you wish to join FOL, please let library staff know. We would love for you to join and be a part of our library!",
+      "href": null
+    }
+  ],
+  "book-club": [
+    {
+      "type": "h1",
+      "text": "Friends of the Library",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "FRIENDS OF THE LIBRARY (FOL): The Friends Of The Fairview City Library is a volunteer group of women and men who are interested in the development and progress of the library services in Fairview. They conduct fundraisers, assist the library staff and provide improvements to the library for the use and benefit of the Citizens. The Friends meet the third Tuesday at 6:00 pm on January 14th, 2025; April 15th, 2025; July 15th, 2025; October 21st, 2025. If you are interested in becoming a Friend Of The Library, please join us at the next meeting or talk with any of the library staff",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Again if you wish to join FOL, please let library staff know. We would love for you to join and be apart of our library!",
+      "href": null
+    }
+  ],
+  "blog": [
+    {
+      "type": "h1",
+      "text": "Our Blog",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "FAQ",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "Join Book Club",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "Chess Club!",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "Tuesday Story Times",
+      "href": null
+    }
+  ],
+  "public-sites": [
+    {
+      "type": "h1",
+      "text": "External Resources",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "On this page, you will find links to other websites that can provide you with additional resources.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "We have separated these links into categories to provide you with quicker access to what you might be looking for. The following are links to each category.",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "These following links will get you to the area you are looking for -",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Educational Resources",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Career and Job Related Links",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Local (Including State) Government",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Government",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Forms (Quick Access - Governmental/Other)",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Charity Resources",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Genealogy Resources",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Library Resources and Other Online Databases",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Fairview Oklahoma Public Schools",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Northwest Technology Center | NWTC",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Northwestern Oklahoma State University",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Northern Oklahoma College",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma State University",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "The University of Oklahoma",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Southwestern Oklahoma State University",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "University of Central Oklahoma",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "OK College Start.org",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma's Promise - Oklahoma State Regents for Higher Education",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma State Department of Education",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "FAFSA - Free Application for Student Aid",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Tuition Funding Sources",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "MoneyGeek - Online College Funding and Scholarships",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Community for Accredited Online Schools",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "ACT: American College Testing",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Coursera | Online Courses & Credentials by Top Educators, Join for Free",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Duolingo: Learn Spanish, French and other languages for free",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Khan Academy | Free Online Courses, Lessions & Practice",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Affordable Colleges Online - Oklahoma",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": ">> Educator Resources:",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "STEM-Works: Activities",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "HomeAdvisor: Educators Guide to Building and Construction",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Next Generation Science - Biology Lesson Plans",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Education World: Using Technology in the classroom",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "HSI: Guide to Classroom Technologies that Increase Learning",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Seven Practice for Effective Learning",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Teaching World War One History through Food",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Financial Literacy and Real Estate Investment Lesson Plans",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Career and Job Related Resources",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Unemployment Website - * Must use Microsoft Edge or Internet Explorer",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Employment Security Commission",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "OkJobMatch / Oklahoma Works",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "CareerBuilder.com",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "JobNow! by Brainfuse: Get Prepared to Get the Job!",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "City of Fairview, Oklahoma",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "State of Oklahoma Official Website",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Department of Wildlife Conservation",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Tax Commission",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Department of Labor",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Department of Public Safety",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Department of Human Services",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Earthquakes in Oklahoma",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "The White House: Office of the President of the United States",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "United States Senate",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US House of Representatives",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Department of Veterens Affars / VA",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Social Security Administration",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Social Security Express",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Department of Health and Human Services",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Dept. of the Interior: Bureau of Indian Affairs",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "United States Selective Service System",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Department of Homeland Security",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Internal Revenue Service",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Federal Communications",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "United States Department of Agriculture",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "IRS Forms and Publications",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Tax Commission Forms and Publications",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma State Dept. of Health: Birth / Death Certifications",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Free legal Forms.net",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "All Law Legal Forms",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Charity Navigator.org: Your guide to Smarter Giving",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "American Red Cross",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Wounded Warrior Project",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "St. Jude Children's Hospital",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "National Archives: Resources for Genealogists and Family Historians",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "FamilySearch.org: Free Family History and Genealogy Records",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Genealogy Website",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Cyndi's List: A Comprehensive List of Genealogy Sites",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "US Census Bureau: Genealogy",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Find a Grave",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Oklahoma Department of Libraries",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Digital Prairie: Oklahoma Archives",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "WorldCat - The World's Largest Library Catalogue",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "EBSCOHost Login",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "Fantastic Fiction.com",
+      "href": null
+    },
+    {
+      "type": "li",
+      "text": "BrainFuse Login",
+      "href": null
+    }
+  ],
+  "contact": [
+    {
+      "type": "h1",
+      "text": "Come Visit Us",
+      "href": null
+    }
+  ],
+  "services": [
+    {
+      "type": "h1",
+      "text": "Fairview City Library",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Our Services",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Computer Access",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "We have Computer & Internet accessibility People that are 17 & under need signed internet permission slips to access our computers",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Book loaning",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Books loaned out of the Library or we can ILL (Inter Library Loan) books from other\n libraries!",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Announcements",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "We show local events and library events on our facebook and blog !",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Printing",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "We can print for you! From your device or ours!",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Faxing",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Your One-Stop Faxing Solution!",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Need copies?",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Need duplicates? Our machines give excellent quality copies",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "A World of Possibilities",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Get Things Done",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Discover dedicated spaces designed for you to work efficiently and in peace.",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Complimentary Internet",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Enjoy free WiFi for everyone! Perfect for streaming videos or tackling your business tasks.",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Relax and Unwind",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Take a moment to sit back, put on your headphones, and immerse yourself in music or a good book!",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Essential Tools",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Access our computers at no cost (with a simple sign-on) to help you with your tasks.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Our Team",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Crystal Privette",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "DeDe Sproul",
+      "href": null
+    },
+    {
+      "type": "h4",
+      "text": "Tate Fowble",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "More about the Library",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "Before there was a library in Fairview, there was a reading room. Many citizens of\n Fairview went to the reading room to read the current magazines and books of the era. The Fairview Municipal\n Library was founded on April 9th, 1909.",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Links to get you started",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "Book Catalog",
+      "href": "https://fairviewok.biblionix.com/"
+    },
+    {
+      "type": "a",
+      "text": "The Freedom to Read statement",
+      "href": "https://uniteagainstbookbans.org/freedomtoread/"
+    },
+    {
+      "type": "a",
+      "text": "BookBrowse",
+      "href": "https://www.bookbrowse.com/fclbb"
+    },
+    {
+      "type": "a",
+      "text": "OK Virtual Library",
+      "href": "https://okvirtuallibrary.overdrive.com/okvirtuallibrary-fairviewcity/content"
+    },
+    {
+      "type": "a",
+      "text": "ShortEdition.com",
+      "href": "https://short-edition.com/en/"
+    },
+    {
+      "type": "h2",
+      "text": "Museum and Library Services",
+      "href": null
+    },
+    {
+      "type": "p",
+      "text": "If you’d like to look at our financials, and compare us to\n other libraries, just check out their page! These stats are based on our annual reports to the state.",
+      "href": null
+    },
+    {
+      "type": "a",
+      "text": "View Stats",
+      "href": null
+    },
+    {
+      "type": "h2",
+      "text": "Latest News",
+      "href": null
+    }
+  ]
+}

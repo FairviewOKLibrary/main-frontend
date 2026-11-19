@@ -1,26 +1,3 @@
-'use client';
-import { useEffect, useState } from 'react';
-import Image from 'next/image';
-import ThemeChange from '@components/themeChange';
-import logo from '@assets/cityoffairview.png';
-import { Container } from 'react-bootstrap';
-import style from '@styles/footer.module.scss';
-
-const Footer = () => {
-
-    useEffect(() => {
-
-
-    }, []);
-    return (
-        <div className={style.footer}>
-            <Container>
-                Footer
-            </Container>
-        </div>
-    )
-}
-
-export default Footer;
-
-// Local business sites 
+import Link from "next/link";
+import style from "@styles/footer.module.scss";
+export default function Footer(){return <footer className={style.footer}><div className={style.inner}><div><h2>Fairview City Library</h2><p>Discover. Learn. Connect.</p><p>115 S. 6th Ave.<br/>Fairview, OK 73737</p></div><div><h3>Explore</h3><Link href="/about">About us</Link><Link href="/services">Services</Link><Link href="/faq">FAQ</Link><Link href="/join-fol">Friends of the Library</Link></div><div><h3>Resources</h3><Link href="/public-sites">Community links</Link><Link href="/library-board">Library board</Link><Link href="/blog">News & programs</Link><a href="https://catalog.fairviewoklibrary.org/">Library catalog ↗</a></div><div><h3>Stay connected</h3><a href="https://www.facebook.com/fairviewoklibrary/">Facebook ↗</a><Link href="/contact">Contact us</Link></div></div><div className={style.bottom}>© {new Date().getFullYear()} Fairview City Library. Serving our community.</div></footer>}

@@ -1,29 +1,3 @@
-'use client';
-import Image from "next/image";
-// import style from '';
-import home_pic from '@assets/home_pic.jpg';
-import OurServices from '@components/OurServices';
-
-
-const Home = () => {
-
-
-
-  const looped = (arg: number) => {
-    const n = Number(arg) || 0;
-    const arr = [...Array(n)].map((_, i) => (<div key={i}>{i + 1} <br /></div>));
-    return (arr);
-  }
-  return (
-    <div className="">
-      <div className='__home_main' >
-        {/* <div className='__home_background_image' style={{ backgroundImage: `url(${home_pic.src})` }}> */}
-        {/* {looped(50)} */}
-        {/* </div> */}
-        <OurServices />
-      </div>
-    </div>
-  );
-}
-
-export default Home;
+import Link from "next/link";
+const services=[{title:"Books & borrowing",description:"Discover books and ask about interlibrary loans.",icon:"📚"},{title:"Computers & Wi-Fi",description:"Use public computers and internet access at the library.",icon:"💻"},{title:"Printing & copies",description:"Printing, copying, and faxing services for everyday needs.",icon:"🖨️"},{title:"Digital reading",description:"Explore eBooks and audiobooks with Libby and OverDrive.",icon:"📖"}];
+export default function Home(){return <main><section className="hero"><div className="hero-inner"><p className="eyebrow">Welcome to your community library</p><h1>A place to discover, connect, and belong.</h1><p>From books and digital resources to community programs and local history, Fairview City Library is here for you.</p><div className="hero-actions"><Link className="button-primary" href="/services">Explore our services</Link><Link className="button-secondary" href="/about">Get to know us</Link></div></div></section><section className="home-section"><div className="section-heading"><p className="eyebrow">What we offer</p><h2>Something for everyone</h2><p>Practical resources and welcoming spaces for learning, work, and leisure.</p></div><div className="service-grid">{services.map(s=><article className="service-card" key={s.title}><span className="service-icon" aria-hidden="true">{s.icon}</span><h3>{s.title}</h3><p>{s.description}</p></article>)}</div></section><section className="feature-band"><div><p className="eyebrow">Explore more</p><h2>Local history. Community connections.</h2><p>Find library programs, public resources, and information about the people who make our library special.</p></div><div className="feature-links"><Link href="/blog">News & programs →</Link><Link href="/public-sites">Public resources →</Link><Link href="/library-board">Library board →</Link><Link href="/obituaries">Major County obituaries →</Link></div></section></main>}
